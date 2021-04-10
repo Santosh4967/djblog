@@ -25,7 +25,7 @@ SECRET_KEY = 'pg&*=v!l_ntjdpc#w=te(znw2z2ibr^w_9l$gsvq1mh@d0clra'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [santoshpydjblog.herokuapp.com]
+ALLOWED_HOSTS = ['santoshpydjblog.herokuapp.com']
 
 
 # Application definition
